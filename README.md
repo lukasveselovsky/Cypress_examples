@@ -2,7 +2,7 @@
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c" alt="Playwright" title="Cypress"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
 </div>
 
 This repository contains examples of end-to-end tests using Cypress for Trello clone web application.
@@ -17,7 +17,13 @@ This repository contains examples of end-to-end tests using Cypress for Trello c
 
 ## Introduction
 
-This repository houses automated tests implemented with Playwright, an open-source Node.js library for automating browsers. Playwright offers a powerful set of features for automating web interactions across different browsers, making it an excellent choice for testing web applications.
+This repository houses automated tests implemented with Cypresss. The tests were created as part of learning Cypress technology using the Trello which you can find here https://github.com/filiphric/trelloapp-vue-vite-ts.git. 
+If you want to see how individual tests work on a real application you need to add this application to your project.
+
+To install, simply clone Trello app project and
+
+1. `npm install`
+2. `npm start`
 
 ## Project Structure
 
@@ -65,7 +71,3 @@ Contributions to this project are welcome! If you find any issues or would like 
 ## Contact
 
 If you have any questions or suggestions regarding this project, feel free to contact the project owner at [lukas.veselovsky1@gmail.com](mailto:lukas.veselovsky1@gmail.com).
-
-## License
-
-This project is licensed under the [MIT License].
