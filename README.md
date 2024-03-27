@@ -17,7 +17,7 @@ This repository contains examples of end-to-end tests using Cypress for Trello c
 
 ## Introduction
 
-This repository houses automated tests implemented with Cypresss. The tests were created as part of learning Cypress technology using the Trello which you can find here https://github.com/filiphric/trelloapp-vue-vite-ts.git. 
+This repository houses automated tests implemented with Cypresss. The tests were created as part of learning Cypress technology using the Trello clone app created by Filip Hric which you can find here https://github.com/filiphric/trelloapp-vue-vite-ts.git. 
 If you want to see how individual tests work on a real application you need to add this application to your project.
 
 To install, simply clone Trello app project and
